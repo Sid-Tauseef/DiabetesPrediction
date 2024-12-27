@@ -1,0 +1,1 @@
+ D:\\coding\\Diabetes_Prediction\\Diabetes_Prediction_App\\Diabetes-Detection-App\\.dart_tool\\flutter_build\\ff01b2f94de1f5d5e08b3dda8769709c\\native_assets.yaml: 
